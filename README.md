@@ -1,4 +1,4 @@
-# home_automation-door_opener
+# Home Automation - Smart Door Opener
 Code for my personal project of Home Automation - Smart Door opener. The project is simulated on Tinker CAD. Links given in the Readme file!
 
 PROJECT ON TINKER-CAD: https://www.hackster.io/priyanka_p1/home-automation-automated-entrance-exit-door-0d6a22
